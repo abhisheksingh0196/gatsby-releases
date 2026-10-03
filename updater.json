@@ -1,0 +1,11 @@
+{
+  "version": "v0.0.4",
+  "notes": "Added Search & Filter, Delete Books feature.",
+  "pub_date": "2026-10-04T00:30:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSGdtNkNvOU9odGNzVWZNcmVsM1V4R1I5K2JqNHFTZHVSb1RQK2FoTmgrcG5jS1hpaHRldVJFVTh1QXU1SVhzdnA0R0M2WnRiVEt0Z1AzMWpna25lS0NTc0JORTUwZlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDUzOTMyCWZpbGU6R2F0c2J5XzAuMC40X2FhcmNoNjQuYXBwLnRhci5negpEMDRXR0JFSmdLYTlNLzZwajNtajluMTJHSkZMR1Q1ZzFoSE9SUXZraTFQQm52a0Q0S1dpL1Z4bG5HK01ZYnNkQ2NmdGhXd1dYenZaWHV5ZHlmazlBQT09Cg==",
+      "url": "https://github.com/abhisheksingh0196/gatsby-releases/releases/download/v0.0.4/Gatsby_0.0.4_aarch64.app.tar.gz"
+    }
+  }
+}
