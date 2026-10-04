@@ -4,7 +4,7 @@
   "pub_date": "2026-10-04T18:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSGdtNkNvOU9odGZGOHBkcElvWkZtZ0h0K0pjSDlIdXg0b3AzNDhjL2l0VUJxZTNGT2dXZlViL0xxU1Jpc3c3YmJHd0dKb2hzakNMbDROMmVCWGc0eHB4MkxmWWo2RkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTM4NjgxCWZpbGU6R2F0c2J5XzAuMC41X2FhcmNoNjQuYXBwLnRhci5negpIenF6amNORXRXS0o5R0ZoaFdvY0x0aHZvdS9VY3VwVFM5a1RyZWkranlRdmYwanNLQjNpZ0lXVTd3TXRZUHNlcWNuaFJCeWt0cGlReE1McUVTQmREZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSGdtNkNvOU9odFZUVlhmZk9HRC9TaGYydkU2M0RiRmxsZ3RWN1VpZllIaVJlYkJpbVRMbkNpdkNwZFRLcEpOVVArQUExNFJrdmcxTHpzVDJVYU1zMm5rSW92RHNlNkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTM5MTYxCWZpbGU6R2F0c2J5XzAuMC41X2FhcmNoNjQuYXBwLnRhci5negpMcWhaYlhmS2ljWnpIczR6dkJFR2RsbXdZYUM0OVdZUmZuSExRdE9QWTVjSHBPeGJJNG00ajZVQks0dU9EN0xzRnlmaUlLUUxUODZXOUo1SkV0L0NEUT09Cg==",
       "url": "https://github.com/abhisheksingh0196/gatsby-releases/releases/download/v0.0.5/Gatsby_0.0.5_aarch64.app.tar.gz"
     }
   }
