@@ -24,14 +24,16 @@ If you love your Kindle or Kobo but hate dealing with bloated, outdated desktop 
 2. Download the `Gatsby_xxx_aarch64.app.tar.gz` file.
 3. Double-click the downloaded `.tar.gz` file in your Downloads folder to extract the `Gatsby.app`.
 4. Drag `Gatsby.app` into your Mac's **Applications** folder.
-5. Open it up, plug in your e-reader, and enjoy!
+5. **Important:** Because Gatsby is built by an indie developer, macOS will initially flag it as an "untrusted" or "unidentified" developer app. 
+   - **To bypass this:** **Right-click** (or Control-click) `Gatsby.app` in your Applications folder and select **Open**. 
+   - A warning will pop up. Click **Open** again. You only have to do this once!
+6. Plug in your e-reader and enjoy!
 
 *(Note: Gatsby includes a built-in Auto-Updater. Once installed, you can simply click `Gatsby > Check for Updates` in your Mac menu bar to get future versions seamlessly).*
 
 ---
 
 ### 🚀 Roadmap (Coming Soon)
-- **Wireless "Send to Kindle":** Send books without the USB cable.
 - **Magic Metadata:** One-click fetching of covers and summaries via the Google Books API.
 - **Highlights Exporter:** Export your Kindle notes directly to beautiful Markdown files for Obsidian/Notion.
 - **Kindle Collections Sync:** Automatically turn your Gatsby tags into native folders on your Kindle.
