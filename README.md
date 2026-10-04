@@ -11,6 +11,7 @@
 If you love your Kindle or Kobo but hate dealing with bloated, outdated desktop software, Gatsby is for you. Built from the ground up with **Rust** and **Tauri**, Gatsby is incredibly fast, memory-efficient, and focuses purely on doing the core things beautifully.
 
 ### ✨ Features
+* **100% Offline & Private:** Gatsby does not track you, does not require an account, and never connects to the internet (except when you explicitly click "Check for Updates" to pull down a new version). Your library stays securely on your Mac.
 * **Native & Lightning Fast:** No bloated web-views or Java runtimes. Instant startup and snappy UI.
 * **Beautiful Dark/Light Mode:** Looks and feels right at home on macOS.
 * **Smart Device Sync:** Automatically detects your e-reader, prevents you from sending duplicate books, and ignores invisible macOS "ghost" files (`._` AppleDouble).
